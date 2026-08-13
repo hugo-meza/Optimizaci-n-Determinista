@@ -18,12 +18,18 @@ El repositorio está organizado de la siguiente manera:
 📦 Optimizacion-Repo
  ┣ 📂 M1                # Ejercicios y tareas del Módulo 1
  ┃ ┣ 📜 Clase3.ipynb
+ ┃ ┣ 📜 Asignacion.ipynb
+ ┃ ┣ 📜 Actividad_Redes.ipynb
+ ┃ ┣ 📜 Ruta_más_corta.ipynb
+ ┃ ┣ 📜 TSP.ipynb
  ┃ ┗ 📜 Transporte.ipynb
  ┣ 📂 M2                # Ejercicios y tareas del Módulo 2
  ┃ ┣ 📜 Actividad1.ipynb
+ ┃ ┣ 📜 Dualidad.ipynb
  ┃ ┣ 📜 Semana1.ipynb
  ┃ ┣ 📜 Semana2.ipynb
  ┃ ┣ 📜 Sensibilidad.ipynb
- ┃ ┗ 📜 Tarea1.ipynb
+ ┃ ┣ 📜 Tarea1.ipynb
+ ┃ ┗ 📜 Tarea4.ipynb
  ┣ 📜 requirements.txt      # Dependencias necesarias para correr el código
  ┗ 📜 README.md             # Este archivo
